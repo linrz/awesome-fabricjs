@@ -5,12 +5,14 @@
 
 ## Contents
 <details>
-    <summary>Click to expand</summary>
-- [Awesome Fabric.js](#awesome-fabricjs)
+    <summary>Click to expand</summary>  
+
+- [Awesome Fabric.js](#awesome-fabricjs)  
   - [Projects](#projects)
   - [Implementations](#implementations)
   - [Others](#others)
-  - [Contribute](#contribute)
+  - [Contribute](#contribute)  
+  
 </details>
 
 ## Projects
